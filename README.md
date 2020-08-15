@@ -10,12 +10,12 @@ In this project,
 You can download the python from the following link for windows
 * [Python link](https://www.python.org/downloads/windows/)
 
-After installation check python installed correctly or not by executing following command on cmd
+After installation check the python installed correctly or not by executing  the following command on cmd
 ```
 python --version
 ```
-Change the diectory where you want to install Django.Before installing Django i have virtual environment for django so it will work on that environment only.
-following command are used for installing virtual environment
+Change the diectory where you want to install Django.Before installing Django I have created virtual environment for django so it will work on that environment only.
+Following command are used for installing virtual environment
 - Install virtual environment
 ```
 pip install virtualenwrapper-win
