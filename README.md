@@ -91,3 +91,4 @@ For image handling you can install pillow package.
 ## Reference
 - Following are the link of telusko youtube channel
 * [Telusko channel](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+* [mysql connection](https://medium.com/@omaraamir19966/connect-django-with-mysql-database-f946d0f6f9e3)
